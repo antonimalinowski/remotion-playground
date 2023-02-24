@@ -10,7 +10,8 @@ export const MyComposition = () => {
         justifyContent: "center",
         alignItems: "center",
         fontSize: 100,
-        backgroundColor: "white"
+				color: 'orange',
+        backgroundColor: "green"
       }}
     >
       The current frame is {frame}.
